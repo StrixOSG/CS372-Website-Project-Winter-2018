@@ -4,4 +4,4 @@
 My code contributions:
 PHP, some JS.
 
-The website was intended to be a rough knock off of Craig's List, called Greg's List.
+The website was intended to be a rough knock off of Craigslist, called Greg's List.
